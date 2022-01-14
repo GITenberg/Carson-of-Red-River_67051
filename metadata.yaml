@@ -1,5 +1,8 @@
 _repo: Carson-of-Red-River_67051
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67051-h/images/cover.jpg
 creator:
   author:
     agent_name: Bindloss, Harold
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1256
     wikipedia: https://en.wikipedia.org/wiki/Harold_Edward_Bindloss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67051#Carson-of-Red-River
 gutenberg_issued: '2021-12-30'
 identifiers:
   gutenberg: '67051'
